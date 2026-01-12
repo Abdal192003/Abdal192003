@@ -4,6 +4,16 @@
 <img align="right" width="400" src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdal192003&label=Profile%20views&color=0e75b6&style=flat" alt="abdal192003" /> </p>
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdal192003/Abdal192003/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdal192003/Abdal192003/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Abdal192003/Abdal192003/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 - 🔭 I’m currently working on **Speech Recognition Model**
 
 - 🌱 I’m currently learning **MERN Stack and LLM**
@@ -28,12 +38,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdal192003&" alt="abdal192003" /></p>
 
-###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdal192003/Abdal192003/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdal192003/Abdal192003/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Abdal192003/Abdal192003/output/pacman-contribution-graph.svg">
-</picture>
-
-###
