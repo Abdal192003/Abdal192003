@@ -4,12 +4,6 @@
 <img align="right" width="400" src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdal192003&label=Profile%20views&color=0e75b6&style=flat" alt="abdal192003" /> </p>
 
-- 🔭 I’m currently working on **Speech Recognition Model**
-
-- 🌱 I’m currently learning **MERN Stack and LLM**
-
-- 💬 Ask me about **Web and AI**
-
 - 📫 How to reach me **abdalahmadkhan1sept@gmail.com**
 
 * 🌐 Portfolio: [Visit My Portfolio](https://mac-os-portfolio-ashy.vercel.app/)
